@@ -1,0 +1,23 @@
+{
+  "name": "new-hello-microverse-project",
+  "version": "1.0.0",
+  "description": "This project includes configuration of linters and also includes gitignore file. \r It follows/use github workflow.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ol-create/New-hello-microverse-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ol-create/New-hello-microverse-project/issues"
+  },
+  "homepage": "https://github.com/Ol-create/New-hello-microverse-project#readme",
+  "devDependencies": {
+    "hint": "^6.1.9"
+  }
+}
